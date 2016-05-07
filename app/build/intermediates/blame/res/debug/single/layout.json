@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_usersettingsfragment.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_usersettingsfragment.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_placepickerfragment.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_section_header.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_list_section_header.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tab.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_tab.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar_stub.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_title_bar_stub.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_image.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_image.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_search_box.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_search_box.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_checkbox.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_checkbox.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_friendpickerfragment.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_friendpickerfragment.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_include.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_decor_include.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_title_bar.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_title_bar.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_search_bar_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_search_bar_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_activity_circle_row.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_activity_circle_row.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_mode_close_item.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor_overlay.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_decor.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_decor.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_tabbar.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_tabbar.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_home.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\layout\\abc_action_bar_home.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_activity_layout.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_login_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_picker_list_row.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_picker_list_row.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_placepickerfragment_list_row.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\layout\\com_facebook_placepickerfragment_list_row.xml"
+    }
+]

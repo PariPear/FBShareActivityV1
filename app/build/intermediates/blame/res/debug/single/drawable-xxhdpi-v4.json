@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_background_selected.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_background.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_icon.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\com_facebook_button_like_pressed.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable-xxhdpi-v4\\com_facebook_button_like_pressed.png"
+    }
+]

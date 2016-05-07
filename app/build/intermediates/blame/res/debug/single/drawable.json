@@ -1,0 +1,222 @@
+[
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_loginbutton_silver.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_loginbutton_silver.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_check.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_portrait.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_profile_picture_blank_portrait.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_longpressed.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_list_longpressed.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_spinner_ab_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_ab_holo_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_spinner_ab_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_focused.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_list_focused.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_focused.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_blue_focused.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_pressed.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_blue_pressed.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_on.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_check_on.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_ic_clear_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_focused.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_grey_focused.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_selected.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like_selected.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like_background.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_divider.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_list_divider.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_picture_blank_square.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_profile_picture_blank_square.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_search_dropdown_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_pressed.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_grey_pressed.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_usersettingsfragment_background_gradient.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_pressed.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like_pressed.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_grey_normal.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_grey_normal.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_textfield_searchview_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_holo_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_textfield_searchview_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_search_dropdown_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_search_dropdown_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_item_background.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_item_background.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_blue.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_background_transition.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_list_selector_background_transition.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_ab_holo.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_tab_indicator_ab_holo.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_background.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_top_background.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_pressed.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_list_pressed.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_inverse_icon.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_inverse_icon.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background_selected.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like_background_selected.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_profile_default_icon.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_profile_default_icon.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_logo.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_logo.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_icon.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like_icon.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_searchview_right_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_textfield_searchview_right_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_place_default_icon.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_place_default_icon.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_list_selector.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_list_section_header_background.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_list_section_header_background.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_list_selector_disabled.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_list_selector_disabled.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_picker_top_button.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_picker_top_button.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_blue_normal.9.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_blue_normal.9.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_top_button.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_top_button.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_ic_clear.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_check_off.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_check_off.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_close.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_close.png"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_icon_selected.png",
+        "source": "E:\\New folder\\FBShareActivity2\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\3.19.1\\res\\drawable\\com_facebook_button_like_icon_selected.png"
+    }
+]
